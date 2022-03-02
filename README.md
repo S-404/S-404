@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- my CV preview https://s-404.github.io/myCV/
 <!--
 **S-404/S-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
