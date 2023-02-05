@@ -1,5 +1,10 @@
-## Hi there 👋
+## Hi, I'm Andrey! 👋
+
+<p><em>JS full stack developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
 ### my CV :
+
 - preview: https://s-404.github.io/myCV/
 - repository: https://github.com/S-404/myCV
 <!--
