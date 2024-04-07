@@ -1,12 +1,20 @@
-## Hi, I'm Andrey! 👋
+## 👋 Hi, I'm Andrey!
 
-<p><em>JS full stack developer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+<p>
+  backend developer
+  <em>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </em>
+</p>
 
-### my CV :
+<a href="https://vibecode.ru" target="_blank">vibecode.ru</a>
 
-- preview: https://s-404.github.io/myCV/
-- repository: https://github.com/S-404/myCV
+<span style="color:blue"> 
+  <i>vibe code ✨ - implies creating code that not only works correctly and efficiently but also inspires, attracts, and evokes positive emotions.</i>
+</span>
+
+
+
 <!--
 **S-404/S-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
